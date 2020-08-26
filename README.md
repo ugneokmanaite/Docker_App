@@ -89,7 +89,10 @@ services:
 
 ## Step 11: Push to repo
 
-# Monolith
+
+# Background theory 
+
+## Monolith
 - User Interface
 - Business Logic
 - Data Access Layer
@@ -97,7 +100,7 @@ services:
 
 If certain parts of achitecture needs to be updated, everthing else will be down also. All layers are dependant on each other
 
-# Microservices
+## Microservices
 - Also known as microservice architecture- architectural style that structures an application as a collection of services that are :
 
 1. Highly maintainable and testable
